@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg viewBox="13.703 0.2 99.378 37.197" xmlns="http://www.w3.org/2000/svg" xmlns:bx="https://boxy-svg.com">
+  <defs>
+    <style>.cls-1{fill:#202020;}</style>
+    <style bx:fonts="League Spartan">@import url(https://fonts.googleapis.com/css2?family=League+Spartan%3Aital%2Cwght%400%2C100%3B0%2C200%3B0%2C300%3B0%2C400%3B0%2C500%3B0%2C600%3B0%2C700%3B0%2C800%3B0%2C900&amp;display=swap);</style>
+    <style bx:fonts="Quicksand">@import url(https://fonts.googleapis.com/css2?family=Quicksand%3Aital%2Cwght%400%2C300%3B0%2C400%3B0%2C500%3B0%2C600%3B0%2C700&amp;display=swap);</style>
+  </defs>
+  <text style="font-family: 'League Spartan'; font-size: 27px; font-weight: 700; letter-spacing: -3px; text-transform: uppercase; white-space: pre;" transform="matrix(1.2363009452819824, 0, 0, 1.2493300437927246, -16.808473587036133, -6.517218112945557)" x="35.381" y="25.021">WBM</text>
+  <text style="font-family: Quicksand; font-size: 6px; letter-spacing: 1.9px; white-space: pre;" x="52.95" y="32.86" transform="matrix(1, 0, 0, 1, 4.440892098500626e-16, 4.440892098500626e-16)">store</text>
+</svg>
